@@ -26,7 +26,7 @@ Web業務に参加したら最初に読んでください。
 * 開発に携わるメンバーは、プロジェクトのリポジトリへのアクセス権が与えられます。
 
 #### アクセス可能になるリポジトリ
-* [tech-docs (技術系ドキュメント置場)](../tech-docs)
+* [tech-docs (技術系ドキュメント置場)](https://github.com/GrowUpFukuoka/tech-docs)
 
 ### Adobe ID （必須ではない）
 * 主にWebデザインや画像の作成でXDやIllustrator、Photoshopを使用します。持っていた方が便利ですが強制ではありません。
