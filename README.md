@@ -27,6 +27,7 @@ Web業務に参加したら最初に読んでください。
 
 #### アクセス可能になるリポジトリ
 * [tech-docs (技術系ドキュメント置場)](https://github.com/GrowUpFukuoka/tech-docs)
+* [tech-samples (コードサンプル置場)](https://github.com/GrowUpFukuoka/tech-samples)
 
 ### Adobe ID （必須ではない）
 * 主にWebデザインや画像の作成でXDやIllustrator、Photoshopを使用します。持っていた方が便利ですが強制ではありません。
